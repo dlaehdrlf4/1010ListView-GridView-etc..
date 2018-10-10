@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NBA">
+        <item>제임스</item>
+        <item>마이클조던</item>
+        <item>코비브라이언트</item>
+        <item>스테판커리</item>
+        <item>커존스</item>
+        <item>데릭로즈</item>
+        <item>듀란트</item>
+        <item>스티븐내쉬</item>
+        <item>앨런아이버슨</item>
+        <item>크리스폴</item>
+        <item>어빙신</item>
+        <item>레이알렌</item>
+    </string-array>
+</resources>
